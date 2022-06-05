@@ -10,7 +10,7 @@
 
 graph LR
 
-A[REACT.JS] --> B((AXIOS))
+A[REACT.JS] --> B((FETCH))
 
 B --> D{BreakingBadAPI}
 
